@@ -24,11 +24,14 @@
 
 The image below shows the names of the employees that were born between 1952 and 1955. Note that there are some duplicates. This is because some of the employees titles have changed over the years and further filtering of the data is needed. 
 
+![PH_Retiring_by_title](https://user-images.githubusercontent.com/119640010/218589652-95b544e1-63d4-4541-a6fa-db0b35b8c658.PNG)
 
 
 ### Unique Titles
 
-The table below shows the same thing as the table before, but without the duplicates. This table is still very large with over 90,000 lines and will need to be refined further,
+The table below shows the same thing as the table before, but without the duplicates. This table is still very large with over 90,000 lines and will need to be refined further.
+
+![PH_Unique_titles](https://user-images.githubusercontent.com/119640010/218589753-5466d950-70ec-4438-b52b-e4b9afcc2d64.PNG)
 
 
 
