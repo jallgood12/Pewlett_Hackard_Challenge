@@ -50,9 +50,11 @@ Because PH is about to lose almost a third of their workforce. They have decided
 ![image](https://user-images.githubusercontent.com/119640010/221256593-a288df21-05eb-4e7d-bcd2-9ed551ca0975.png)
 
 We can filter this table further to show the number of trainers per title using this code. 
+
 ![image](https://user-images.githubusercontent.com/119640010/221256854-9757fdf8-7083-4bff-8c26-3e4098fdccd3.png)
 
 Number of trainers per title:
+
 ![image](https://user-images.githubusercontent.com/119640010/221257179-275b284e-a262-402e-a4d0-3e444b82d27d.png)
 
 
