@@ -58,7 +58,7 @@ Number of trainers per title:
 ![image](https://user-images.githubusercontent.com/119640010/221257179-275b284e-a262-402e-a4d0-3e444b82d27d.png)
 
 
-# Summary
+## Summary
 
 The number of employees retiring poses a problem for PH as it is close to a third of their workforce (30.1%). PH response to this problem is to create a mentorship program to allow for a smooth introduction of new employees. However, only 1,549 people have been assigned as trainers. this is a major discrepency from the 90,398 people that are about to retire. PH will have to increase their number of trainers drastically to account for the new hires. 
 
