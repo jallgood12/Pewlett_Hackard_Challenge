@@ -22,6 +22,10 @@
 
 ### Number of retiring employees by title.
 
+### Code used to create table:
+![image](https://user-images.githubusercontent.com/119640010/221254567-e0d5dad8-1c60-4be0-9c55-34ebf2c60562.png)
+
+
 The image below shows the names of the employees that were born between 1952 and 1955. Note that there are some duplicates. This is because some of the employees titles have changed over the years and further filtering of the data is needed. 
 
 ![PH_Retiring_by_title](https://user-images.githubusercontent.com/119640010/218589652-95b544e1-63d4-4541-a6fa-db0b35b8c658.PNG)
