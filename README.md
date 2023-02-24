@@ -37,5 +37,28 @@ The table below shows the same thing as the table before, but without the duplic
 
 ![PH_Unique_titles](https://user-images.githubusercontent.com/119640010/218589753-5466d950-70ec-4438-b52b-e4b9afcc2d64.PNG)
 
+### Retiring Titles 
+
+Finally, the 90,398 employees will be sorted by title. If we take the percentage (90,398/300,024*100) we can see that 30.1% of the employeese at PH are about to retire. 
+
+![image](https://user-images.githubusercontent.com/119640010/221255989-6caaede9-8280-40a3-9306-22e751634528.png)
+
+### Mentorship Eligibility 
+
+Because PH is about to lose almost a third of their workforce. They have decided to convert the retiring employees so that they can train the next generation of workers and pass down their knowlegdge of the company. 
+
+![image](https://user-images.githubusercontent.com/119640010/221256593-a288df21-05eb-4e7d-bcd2-9ed551ca0975.png)
+
+We can filter this table further to show the number of trainers per title using this code. 
+![image](https://user-images.githubusercontent.com/119640010/221256854-9757fdf8-7083-4bff-8c26-3e4098fdccd3.png)
+
+Number of trainers per title:
+![image](https://user-images.githubusercontent.com/119640010/221257179-275b284e-a262-402e-a4d0-3e444b82d27d.png)
+
+
+# Summary
+
+The number of employees retiring poses a problem for PH as it is close to a third of their workforce (30.1%). PH response to this problem is to create a mentorship program to allow for a smooth introduction of new employees. However, only 1,549 people have been assigned as trainers. this is a major discrepency from the 90,398 people that are about to retire. PH will have to increase their number of trainers drastically to account for the new hires. 
+
 
 
