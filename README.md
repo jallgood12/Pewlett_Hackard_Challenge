@@ -8,7 +8,7 @@
 
   The goal of the analysis is to gather data persisting to the employees that are reaching retirment age. PH has given us a date range of employees born between January 1st, 1952, to December 31, 1955. 
   
-  The DB given by PH cinsists of 6 CSV files:
+  The DB given by PH consists of 6 CSV files:
     -Employees 
     -Departments
     -Dat_emp
